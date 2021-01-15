@@ -1,8 +1,6 @@
 """
 File: blackjack.py
 Author: Cameron Poole
-Instructor: Professor Schnell
-Course: ITD-2313
 Date: December 20, 2020
 Summary:
     This program will play Blackjack with you
